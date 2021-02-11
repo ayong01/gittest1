@@ -6,17 +6,28 @@
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
       </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
     </expand>
     <select>
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="BRANCH:szlr1" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:origin/szlr1" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </select>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="04521976-dd06-47f0-ae95-1a85b789561d" name="默认的" comment="cs1">
+      <change afterPath="$PROJECT_DIR$/t05.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -82,7 +93,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613071229867</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="cs1">
+      <created>1613072068003</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1613072068003</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -96,7 +114,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="szlr1" />
+                        <option value="origin/szlr1" />
                       </list>
                     </value>
                   </entry>
@@ -136,14 +154,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="380" y="287" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1613070709781" />
-    <state x="450" y="415" width="958" height="534" key="Vcs.Push.Dialog.v2" timestamp="1613071791692">
+    <state x="343" y="354" width="958" height="534" key="Vcs.Push.Dialog.v2" timestamp="1613072565495">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="450" y="415" width="958" height="534" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1613071791692" />
+    <state x="343" y="354" width="958" height="534" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1613072565495" />
     <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1613070736017">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1613070736017" />
+    <state x="773" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1613072031939">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="773" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1613072031939" />
+    <state x="761" y="426" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1613072489482">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="761" y="426" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1613072489482" />
     <state x="731" y="466" key="git4idea.ui.GitStashDialog" timestamp="1613067752653">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
