@@ -7,21 +7,17 @@
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </expand>
-    <select />
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:szlr1" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="04521976-dd06-47f0-ae95-1a85b789561d" name="默认的" comment="添加代码到git本地库">
-      <changelist_data name="szlr" email="" />
-      <change afterPath="$PROJECT_DIR$/.idea/gittest1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/t01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/t02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/t03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/新建文本文档 - 副本.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/新建文本文档.py" afterDir="false" />
+    <list default="true" id="04521976-dd06-47f0-ae95-1a85b789561d" name="默认的" comment="cs1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,8 +34,14 @@
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
+        <option value="szlr &lt;a904200296@163.com&gt;" />
         <option value="szlr" />
       </list>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -53,10 +55,10 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.ChangelistConflict" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
   </component>
   <component name="SvnConfiguration">
-    <configuration />
+    <configuration>C:\Users\山人\AppData\Roaming\Subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -66,6 +68,21 @@
       <option name="presentableId" value="Default" />
       <updated>1612887835565</updated>
     </task>
+    <task id="LOCAL-00001" summary="测试提交">
+      <created>1613069775448</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1613069775448</updated>
+    </task>
+    <task id="LOCAL-00002" summary="cs1">
+      <created>1613071229867</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1613071229867</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -73,15 +90,30 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="szlr1" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="添加代码到git本地库" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加代码到git本地库" />
+    <MESSAGE value="测试提交" />
+    <MESSAGE value="cs1" />
+    <option name="LAST_COMMIT_MESSAGE" value="cs1" />
   </component>
   <component name="WindowStateProjectService">
     <state x="368" y="219" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1613065625267">
@@ -92,18 +124,26 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="680" y="252" width="512" height="498" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1612892499818" />
-    <state x="735" y="358" key="FileChooserDialogImpl" timestamp="1613065062945">
+    <state x="735" y="358" key="FileChooserDialogImpl" timestamp="1613070974346">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="735" y="358" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1613065062945" />
+    <state x="735" y="358" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1613070974346" />
     <state x="786" y="461" width="256" height="280" key="Github.ShareDialog" timestamp="1613065330651">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="786" y="461" width="256" height="280" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1613065330651" />
-    <state x="464" y="288" key="SettingsEditor" timestamp="1613065690161">
+    <state x="380" y="287" key="SettingsEditor" timestamp="1613070709781">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="464" y="288" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1613065690161" />
+    <state x="380" y="287" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1613070709781" />
+    <state x="450" y="415" width="958" height="534" key="Vcs.Push.Dialog.v2" timestamp="1613071791692">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="450" y="415" width="958" height="534" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1613071791692" />
+    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1613070736017">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1613070736017" />
     <state x="731" y="466" key="git4idea.ui.GitStashDialog" timestamp="1613067752653">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
